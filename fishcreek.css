@@ -74,6 +74,27 @@ background-color: #AEc3E3;
 font-size:110%;
 margin-bottom:0;
 margin-top:0;
-
+padding:.25em;
+}
+section p {padding:0.25em .25em .25em;}
+.category{
+color: #5380C5;
+font-family: Georgia,"Times New Roman",serif;
+font-weight:bold;
+}
+.address {clear:left;}
+.floatright{
+float:right;
+padding-left:1em;
+padding-right:1em;
+}
+footer{
+background-color: #AEC3E3;
+font-size:.70em;
+font-style:italic;
+margin-left:180px;
+padding: 1em;
+text-align:center;
+}
 
 
